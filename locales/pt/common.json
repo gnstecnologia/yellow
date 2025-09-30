@@ -1,0 +1,335 @@
+{
+  "meta": {
+    "title": "Yellow Transfer - Experiências Exclusivas no Brasil",
+    "description": "Descubra o Brasil com a Yellow Transfer. Experiências únicas no Rio de Janeiro, Búzios, Angra dos Reis e região. Tours personalizados com guias especializados.",
+    "keywords": "turismo brasil, rio de janeiro, buzios, angra dos reis, tours personalizados, yellow transfer"
+  },
+  "navigation": {
+    "home": "Início",
+    "benefits": "Benefícios",
+    "services": "Serviços",
+    "about": "Sobre Nós",
+    "method": "Método",
+    "testimonials": "Depoimentos",
+    "faq": "FAQ",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Experiências Exclusivas no Brasil",
+    "subtitle": "Descubra o melhor do Rio de Janeiro e região com roteiros personalizados e guias especializados",
+    "description": "City Tours no Cristo Redentor, Pão de Açúcar, Maracanã, Lapa e Santa Teresa. Passeios para Búzios, Arraial do Cabo, Angra dos Reis e Ilha Grande. Experiências únicas com helicóptero, escuna e barcos privados.",
+    "cta_primary": "Fale no Whatsapp",
+    "cta_secondary": "Ver Detalhes",
+    "stats": {
+      "clients": "Clientes Satisfeitos",
+      "experiences": "Experiências Únicas",
+      "languages": "Idiomas"
+    }
+  },
+  "benefits": {
+    "title": "Por que escolher a Yellow Transfer?",
+    "subtitle": "Oferecemos experiências turísticas premium no Brasil com foco em personalização e qualidade",
+    "items": {
+      "personalized": {
+        "title": "Roteiros Personalizados",
+        "description": "Criamos experiências únicas adaptadas aos seus interesses e tempo disponível no Brasil"
+      },
+      "exclusive": {
+        "title": "Experiências Exclusivas",
+        "description": "Acesso a locais especiais, experiências com helicóptero e passeios privados no Rio e região"
+      },
+      "multilingual": {
+        "title": "Guias Multilíngues",
+        "description": "Profissionais especializados em cultura brasileira, falando português, espanhol e inglês"
+      },
+      "safety": {
+        "title": "Conforto e Segurança",
+        "description": "Veículos premium, seguros completos e suporte 24/7 para sua tranquilidade total"
+      }
+    },
+    "cta": {
+      "title": "Pronto para sua experiência no Brasil?",
+      "description": "Fale com nossos especialistas e vamos criar o roteiro perfeito para você.",
+      "button": "Ver Nossas Experiências",
+      "indicators": {
+        "available": "Disponível 24/7",
+        "response": "Resposta rápida",
+        "premium": "Experiência premium"
+      }
+    }
+  },
+  "services": {
+    "title": "Nossas Experiências no Brasil",
+    "subtitle": "Descubra o melhor do Rio de Janeiro e região com nossos tours especializados",
+    "categories": {
+      "city_tours": "City Tours Rio de Janeiro",
+      "coastal_tours": "Passeios Litorâneos",
+      "exclusive": "Experiências Exclusivas"
+    },
+    "cta": {
+      "title": "Pronto para sua experiência no Brasil?",
+      "description": "Fale com nossos especialistas e vamos criar o roteiro perfeito para você.",
+      "button": "Ver Nossas Experiências"
+    },
+    "items": {
+      "cristo_pao_acucar": {
+        "title": "Cristo Redentor & Pão de Açúcar",
+        "description": "Os cartões postais mais famosos do Rio com vista panorâmica da cidade",
+        "category": "🏙️ City Tours Rio de Janeiro",
+        "duration": "6 horas",
+        "price": "A partir de R$ 280",
+        "highlights": ["Cristo Redentor", "Pão de Açúcar", "Vista panorâmica"],
+        "included": ["Transporte", "Guia"]
+      },
+      "maracana_sambodromo": {
+        "title": "Maracanã & Sambódromo",
+        "description": "Conheça a paixão carioca pelo futebol e o carnaval brasileiro",
+        "category": "🏙️ City Tours Rio de Janeiro",
+        "duration": "4 horas",
+        "price": "A partir de R$ 200",
+        "highlights": ["Maracanã", "Sambódromo", "História do futebol"],
+        "included": ["Transporte", "Guia"]
+      },
+      "lapa_santa_teresa": {
+        "title": "Lapa & Santa Teresa",
+        "description": "Arte urbana, escadaria Selarón e a boemia carioca autêntica",
+        "category": "🏙️ City Tours Rio de Janeiro",
+        "duration": "5 horas",
+        "price": "A partir de R$ 220",
+        "highlights": ["Lapa", "Santa Teresa", "Arte urbana"],
+        "included": ["Transporte", "Guia"]
+      },
+      "buzios": {
+        "title": "Búzios - Rússia dos Trópicos",
+        "description": "23 praias paradisíacas e a charmosa vila de pescadores",
+        "category": "🏖️ Passeios Litorâneos",
+        "duration": "10 horas",
+        "price": "A partir de R$ 350",
+        "highlights": ["Praias", "Centro", "Passeio de barco"],
+        "included": ["Transporte", "Guia"]
+      },
+      "arraial_cabo": {
+        "title": "Arraial do Cabo - Caribe Brasileiro",
+        "description": "Águas cristalinas e praias de areia branca no litoral fluminense",
+        "category": "🏖️ Passeios Litorâneos",
+        "duration": "10 horas",
+        "price": "A partir de R$ 320",
+        "highlights": ["Praia do Forno", "Prainhas", "Gruta Azul"],
+        "included": ["Transporte", "Guia"]
+      },
+      "angra_ilha_grande": {
+        "title": "Angra dos Reis & Ilha Grande",
+        "description": "365 ilhas, praias selvagens e natureza preservada",
+        "category": "🏖️ Passeios Litorâneos",
+        "duration": "12 horas",
+        "price": "A partir de R$ 450",
+        "highlights": ["Ilha Grande", "Lopes Mendes", "Vila do Abraão"],
+        "included": ["Transporte", "Guia"]
+      },
+      "helicopter": {
+        "title": "Helicóptero no Rio",
+        "description": "Voo panorâmico sobre Cristo Redentor, Pão de Açúcar e praias",
+        "category": "✨ Experiências Exclusivas",
+        "duration": "30 min",
+        "price": "A partir de R$ 800",
+        "highlights": ["Voo panorâmico", "Cristo Redentor", "Pão de Açúcar"],
+        "included": ["Helicóptero", "Piloto"]
+      },
+      "private_schooner": {
+        "title": "Escuna Privada",
+        "description": "Passeio de barco exclusivo pela Baía de Guanabara",
+        "category": "✨ Experiências Exclusivas",
+        "duration": "4 horas",
+        "price": "A partir de R$ 1.200",
+        "highlights": ["Escuna privada", "Baía de Guanabara", "Ilhas"],
+        "included": ["Escuna", "Tripulação"]
+      },
+      "gastronomic_tour": {
+        "title": "Tour Gastronômico",
+        "description": "Degustação de comidas típicas brasileiras e cariocas",
+        "category": "✨ Experiências Exclusivas",
+        "duration": "6 horas",
+        "price": "A partir de R$ 300",
+        "highlights": ["Gastronomia local", "Mercados", "Restaurantes"],
+        "included": ["Transporte", "Guia"]
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre a Yellow Transfer",
+    "subtitle": "Conheça nossa história e os valores que nos guiam na criação de experiências únicas no Brasil",
+    "story_title": "Nossa História",
+    "story": {
+      "paragraph1": "Fundada em 2016, a Yellow Transfer nasceu da paixão por mostrar o melhor do Brasil para o mundo. Começamos como uma pequena empresa familiar no Rio de Janeiro, com o sonho de criar experiências turísticas autênticas e memoráveis.",
+      "paragraph2": "Ao longo dos anos, expandimos nossos serviços para incluir destinos paradisíacos como Búzios, Angra dos Reis e Ilha Grande, sempre mantendo nosso compromisso com a qualidade e personalização de cada experiência.",
+      "paragraph3": "Hoje, somos reconhecidos por nossa excelência no atendimento, guias especializados e roteiros únicos que mostram a verdadeira essência da cultura brasileira."
+    },
+    "stats": {
+      "years": "Anos de Experiência"
+    },
+    "cta": {
+      "title": "Faça parte da nossa história!",
+      "button": "Fale com um especialista"
+    }
+  },
+  "method": {
+    "title": "Método Yellow Experience",
+    "subtitle": "Nosso processo para criar experiências inesquecíveis no Brasil",
+    "steps": {
+      "step1": {
+        "number": "01",
+        "title": "Atendimento Multilíngue",
+        "description": "Conversamos no seu idioma para entender seus desejos e criar o roteiro perfeito"
+      },
+      "step2": {
+        "number": "02",
+        "title": "Planejamento Personalizado",
+        "description": "Desenvolvemos um itinerário exclusivo focado nas suas preferências e tempo disponível"
+      },
+      "step3": {
+        "number": "03",
+        "title": "Execução Premium",
+        "description": "Guias especializados, veículos confortáveis e experiências autênticas brasileiras"
+      },
+      "step4": {
+        "number": "04",
+        "title": "Experiência Diferenciada",
+        "description": "Imersão cultural, histórias locais e momentos únicos que só o Brasil pode oferecer"
+      },
+      "step5": {
+        "number": "05",
+        "title": "Suporte 24/7",
+        "description": "Estamos sempre disponíveis para garantir sua tranquilidade e satisfação total"
+      }
+    },
+    "bottom": {
+      "title": "Por que escolher nosso método?",
+      "description": "Cada etapa é cuidadosamente planejada para garantir que você tenha a melhor experiência possível no Brasil, com segurança, conforto e momentos inesquecíveis.",
+      "indicators": {
+        "personalized": "Personalizado",
+        "professional": "Profissional",
+        "reliable": "Confiável"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "O que nossos clientes dizem",
+    "subtitle": "Mais de 8.000 experiências realizadas com excelência no Brasil",
+    "stats": {
+      "clients": {
+        "number": "8.000+",
+        "label": "Clientes Satisfeitos"
+      },
+      "rating": {
+        "number": "4.9",
+        "label": "Avaliação Média"
+      },
+      "experiences": {
+        "number": "50+",
+        "label": "Experiências Únicas"
+      }
+    },
+    "items": {
+      "testimonial1": {
+        "text": "Experiência incrível! O tour do Cristo Redentor foi perfeito. Guia muito conhecedor da história do Rio.",
+        "author": "Maria Silva",
+        "location": "São Paulo, Brasil",
+        "service": "Cristo Redentor"
+      },
+      "testimonial2": {
+        "text": "Búzios foi uma experiência única! A Yellow Transfer nos levou aos melhores lugares com total comodidade.",
+        "author": "João Santos",
+        "location": "Brasília, Brasil",
+        "service": "Búzios"
+      },
+      "testimonial3": {
+        "text": "O voo de helicóptero foi espetacular! Uma visão única do Rio de Janeiro. Recomendo muito!",
+        "author": "Ana Costa",
+        "location": "Belo Horizonte, Brasil",
+        "service": "Helicóptero"
+      }
+    },
+    "trust": {
+      "title": "Confiança e Qualidade Garantidas",
+      "items": {
+        "guides": "Guias Certificados",
+        "insurance": "Seguro Completo",
+        "support": "Suporte 24/7",
+        "premium": "Experiência Premium"
+      }
+    }
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subtitle": "Tire suas dúvidas sobre nossos serviços no Brasil",
+    "items": {
+      "question1": {
+        "question": "Como funciona a reserva via WhatsApp?",
+        "answer": "É muito simples! Entre em contato conosco pelo WhatsApp, conte sobre seus interesses e datas disponíveis. Criaremos um roteiro personalizado e enviaremos todas as informações detalhadas."
+      },
+      "question2": {
+        "question": "Vocês personalizam os roteiros?",
+        "answer": "Sim! Cada experiência é única. Consideramos seus interesses, tempo disponível e orçamento para criar o roteiro perfeito no Brasil, seja no Rio, Búzios, Angra ou outros destinos."
+      },
+      "question3": {
+        "question": "Os passeios são seguros e pontuais?",
+        "answer": "Absolutamente! Trabalhamos apenas com guias credenciados, veículos seguros e seguimos rigorosamente os horários. Sua segurança e satisfação são nossas prioridades."
+      },
+      "question4": {
+        "question": "Atendem turistas estrangeiros?",
+        "answer": "Sim! Nossos guias falam português, espanhol e inglês. Temos experiência com turistas de todo o mundo e adaptamos nossos serviços para diferentes culturas e necessidades."
+      },
+      "question5": {
+        "question": "Qual o melhor período para visitar?",
+        "answer": "O Brasil é lindo o ano todo! O Rio tem clima agradável sempre, Búzios é perfeita no verão, e Angra dos Reis oferece experiências únicas em qualquer época. Vamos te ajudar a escolher a melhor data."
+      }
+    },
+    "cta": {
+      "title": "Ainda tem dúvidas?",
+      "description": "Nossa equipe está pronta para esclarecer todas as suas dúvidas e ajudar você a planejar a experiência perfeita no Brasil.",
+      "button": "Fale com um especialista"
+    }
+  },
+  "footer": {
+    "description": "Yellow Transfer - Experiências exclusivas no Brasil. Descubra o melhor do Rio de Janeiro, Búzios, Angra dos Reis e região com roteiros personalizados e guias especializados.",
+    "quick_links": "Links Rápidos",
+    "links": {
+      "home": "Início",
+      "services": "Serviços",
+      "about": "Sobre Nós",
+      "contact": "Contato"
+    },
+    "services": "Nossos Serviços",
+    "service_links": {
+      "city_tours": "City Tours Rio",
+      "buzios": "Passeios Búzios",
+      "angra": "Angra dos Reis",
+      "helicopter": "Helicóptero"
+    },
+    "contact": {
+      "whatsapp_principal": "WhatsApp Principal",
+      "whatsapp_brasil": "WhatsApp Brasil",
+      "email": "Email"
+    },
+    "copyright": "© 2025 Yellow Transfer. Todos os direitos reservados.",
+    "developer": "Feito com ❤️ por Genesis Company"
+  },
+  "common": {
+    "whatsapp_button": "Falar no WhatsApp",
+    "duration": "Duração",
+    "price": "Preço",
+    "highlights": "Destaques:",
+    "included": "Incluído:"
+  },
+  "whatsapp": {
+    "general_message": "Olá! Gostaria de saber mais sobre as experiências da Yellow Transfer no Brasil. Podem me ajudar?",
+    "service_message": "Olá! Tenho interesse no serviço: {service}. Podem me enviar mais informações?"
+  },
+  "cookies": {
+    "title": "Cookies e Privacidade",
+    "description": "Utilizamos cookies para melhorar sua experiência em nosso site, personalizar conteúdo e analisar nosso tráfego. Ao continuar navegando, você concorda com nossa política de cookies.",
+    "privacy": "Consulte nossa política de privacidade para mais informações sobre como protegemos seus dados.",
+    "accept": "Aceitar",
+    "decline": "Recusar"
+  }
+}

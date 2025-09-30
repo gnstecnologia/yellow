@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "title": "Yellow Transfer - Experiencias Exclusivas en Brasil",
+    "description": "Descubre Brasil con Yellow Transfer. Experiencias únicas en Río de Janeiro, Búzios, Angra dos Reis y región. Tours personalizados con guías especializados.",
+    "keywords": "turismo brasil, rio de janeiro, buzios, angra dos reis, tours personalizados, yellow transfer"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "benefits": "Beneficios",
+    "services": "Servicios",
+    "about": "Acerca de",
+    "method": "Método",
+    "testimonials": "Testimonios",
+    "faq": "FAQ",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Experiencias Exclusivas en Brasil",
+    "subtitle": "Descubre lo mejor de Río de Janeiro y región con itinerarios personalizados y guías especializados",
+    "description": "City Tours en Cristo Redentor, Pan de Azúcar, Maracaná, Lapa y Santa Teresa. Paseos a Búzios, Arraial do Cabo, Angra dos Reis e Ilha Grande. Experiencias únicas con helicóptero, escuna y barcos privados.",
+    "cta_primary": "Habla por WhatsApp",
+    "cta_secondary": "Ver Detalles",
+    "stats": {
+      "clients": "Clientes Satisfechos",
+      "experiences": "Experiencias Únicas",
+      "languages": "Idiomas"
+    }
+  },
+  "benefits": {
+    "title": "¿Por qué elegir Yellow Transfer?",
+    "subtitle": "Ofrecemos experiencias únicas y personalizadas que van más allá del turismo tradicional",
+    "items": {
+      "personalized": {
+        "title": "Experiencias Personalizadas",
+        "description": "Creamos itinerarios únicos basados en tus intereses, tiempo disponible y presupuesto."
+      },
+      "guides": {
+        "title": "Guías Especializados",
+        "description": "Nuestros guías son locales especializados con conocimiento profundo de la cultura brasileña."
+      },
+      "support": {
+        "title": "Soporte 24/7",
+        "description": "Estamos siempre disponibles para garantizar tu tranquilidad y satisfacción total."
+      },
+      "quality": {
+        "title": "Calidad Garantizada",
+        "description": "Compromiso con la excelencia en cada detalle de tu experiencia en Brasil."
+      },
+      "available_24_7": {
+        "title": "Disponible 24/7",
+        "description": "Estamos siempre disponibles para atenderte, cuando lo necesites."
+      },
+      "quick_response": {
+        "title": "Respuesta Rápida",
+        "description": "Servicio rápido y eficiente para atender tus necesidades inmediatamente."
+      },
+      "premium_experience": {
+        "title": "Experiencia Premium",
+        "description": "Servicios de alta calidad con atención a cada detalle."
+      }
+    },
+    "cta": {
+      "title": "¿Listo para tu experiencia en Brasil?",
+      "description": "Habla con nuestros especialistas y crearemos el itinerario perfecto para ti.",
+      "button": "Ver Nuestras Experiencias",
+      "indicators": {
+        "available": "Disponible 24/7",
+        "response": "Respuesta rápida",
+        "premium": "Experiencia premium"
+      }
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Descubre las mejores experiencias que Brasil tiene para ofrecer",
+    "categories": {
+      "city_tours": "City Tours Río de Janeiro",
+      "coastal_tours": "Paseos Costeros",
+      "exclusive": "Experiencias Exclusivas"
+    },
+    "items": {
+      "cristo_pao_acucar": {
+        "title": "Cristo Redentor & Pan de Azúcar",
+        "description": "Los cartones postales más famosos de Río con vista panorámica de la ciudad",
+        "category": "🏙️ City Tours Río de Janeiro",
+        "duration": "6 horas",
+        "price": "Desde R$ 280",
+        "highlights": ["Cristo Redentor", "Pan de Azúcar", "Vista panorámica"],
+        "included": ["Transporte", "Guía"]
+      },
+      "maracana_sambodromo": {
+        "title": "Maracaná & Sambódromo",
+        "description": "Conoce la pasión carioca por el fútbol y el carnaval brasileño",
+        "category": "🏙️ City Tours Río de Janeiro",
+        "duration": "4 horas",
+        "price": "Desde R$ 200",
+        "highlights": ["Maracaná", "Sambódromo", "Historia del fútbol"],
+        "included": ["Transporte", "Guía"]
+      },
+      "lapa_santa_teresa": {
+        "title": "Lapa & Santa Teresa",
+        "description": "Arte urbano, escalinata Selarón y la bohemia carioca auténtica",
+        "category": "🏙️ City Tours Río de Janeiro",
+        "duration": "5 horas",
+        "price": "Desde R$ 220",
+        "highlights": ["Lapa", "Santa Teresa", "Arte urbano"],
+        "included": ["Transporte", "Guía"]
+      },
+      "buzios": {
+        "title": "Búzios - Rusia de los Trópicos",
+        "description": "23 playas paradisíacas y el encantador pueblo pesquero",
+        "category": "🏖️ Paseos Litoráneos",
+        "duration": "10 horas",
+        "price": "Desde R$ 350",
+        "highlights": ["Playas", "Centro", "Paseo en barco"],
+        "included": ["Transporte", "Guía"]
+      },
+      "arraial_cabo": {
+        "title": "Arraial do Cabo - Caribe Brasileño",
+        "description": "Aguas cristalinas y playas de arena blanca en el litoral fluminense",
+        "category": "🏖️ Paseos Litoráneos",
+        "duration": "10 horas",
+        "price": "Desde R$ 320",
+        "highlights": ["Playa del Horno", "Playitas", "Gruta Azul"],
+        "included": ["Transporte", "Guía"]
+      },
+      "angra_ilha_grande": {
+        "title": "Angra dos Reis & Ilha Grande",
+        "description": "365 islas, playas salvajes y naturaleza preservada",
+        "category": "🏖️ Paseos Litoráneos",
+        "duration": "12 horas",
+        "price": "Desde R$ 450",
+        "highlights": ["Ilha Grande", "Lopes Mendes", "Villa de Abraão"],
+        "included": ["Transporte", "Guía"]
+      },
+      "helicopter": {
+        "title": "Helicóptero en Río",
+        "description": "Vuelo panorámico sobre Cristo Redentor, Pan de Azúcar y playas",
+        "category": "✨ Experiencias Exclusivas",
+        "duration": "30 min",
+        "price": "Desde R$ 800",
+        "highlights": ["Vuelo panorámico", "Cristo Redentor", "Pan de Azúcar"],
+        "included": ["Helicóptero", "Piloto"]
+      },
+      "private_schooner": {
+        "title": "Escuna Privada",
+        "description": "Paseo en barco exclusivo por la Bahía de Guanabara",
+        "category": "✨ Experiencias Exclusivas",
+        "duration": "4 horas",
+        "price": "Desde R$ 1.200",
+        "highlights": ["Escuna privada", "Bahía de Guanabara", "Islas"],
+        "included": ["Escuna", "Tripulación"]
+      },
+      "gastronomic_tour": {
+        "title": "Tour Gastronómico",
+        "description": "Degustación de comidas típicas brasileñas y cariocas",
+        "category": "✨ Experiencias Exclusivas",
+        "duration": "6 horas",
+        "price": "Desde R$ 300",
+        "highlights": ["Gastronomía local", "Mercados", "Restaurantes"],
+        "included": ["Transporte", "Guía"]
+      }
+    },
+    "cta": "Saber Más"
+  },
+  "about": {
+    "title": "Acerca de Yellow Transfer",
+    "subtitle": "Conoce nuestra historia y los valores que nos guían en la creación de experiencias únicas en Brasil",
+    "story_title": "Nuestra Historia",
+    "story": {
+      "paragraph1": "Fundada en 2016, Yellow Transfer nació de la pasión por mostrar lo mejor de Brasil al mundo. Comenzamos como una pequeña empresa familiar en Río de Janeiro, con el sueño de crear experiencias turísticas auténticas y memorables.",
+      "paragraph2": "A lo largo de los años, expandimos nuestros servicios para incluir destinos paradisíacos como Búzios, Angra dos Reis e Ilha Grande, siempre manteniendo nuestro compromiso con la calidad y personalización de cada experiencia.",
+      "paragraph3": "Hoy, somos reconocidos por nuestra excelencia en el servicio, guías especializados e itinerarios únicos que muestran la verdadera esencia de la cultura brasileña."
+    },
+    "experience_years": {
+      "number": "8+",
+      "text": "Años de Experiencia"
+    },
+    "cta": {
+      "title": "¡Forma parte de nuestra historia!",
+      "button": "Habla con un especialista"
+    }
+  },
+  "method": {
+    "title": "Método Yellow Experience",
+    "subtitle": "Nuestro proceso para crear experiencias inolvidables en Brasil",
+    "steps": {
+      "step1": {
+        "number": "01",
+        "title": "Atención Multilingüe",
+        "description": "Hablamos en tu idioma para entender tus deseos y crear el itinerario perfecto"
+      },
+      "step2": {
+        "number": "02",
+        "title": "Planificación Personalizada",
+        "description": "Desarrollamos un itinerario exclusivo enfocado en tus preferencias y tiempo disponible"
+      },
+      "step3": {
+        "number": "03",
+        "title": "Ejecución Premium",
+        "description": "Guías especializados, vehículos cómodos y experiencias auténticas brasileñas"
+      },
+      "step4": {
+        "number": "04",
+        "title": "Experiencia Diferenciada",
+        "description": "Inmersión cultural, historias locales y momentos únicos que solo Brasil puede ofrecer"
+      },
+      "step5": {
+        "number": "05",
+        "title": "Soporte 24/7",
+        "description": "Estamos siempre disponibles para garantizar tu tranquilidad y satisfacción total"
+      }
+    },
+    "bottom": {
+      "title": "¿Por qué elegir nuestro método?",
+      "description": "Cada etapa es cuidadosamente planificada para garantizar que tengas la mejor experiencia posible en Brasil, con seguridad, comodidad y momentos inolvidables.",
+      "indicators": {
+        "personalized": "Personalizado",
+        "professional": "Profesional",
+        "reliable": "Confiable"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros clientes",
+    "subtitle": "Más de 8.000 experiencias realizadas con excelencia en Brasil",
+    "stats": {
+      "clients": {
+        "number": "8.000+",
+        "label": "Clientes Satisfechos"
+      },
+      "rating": {
+        "number": "4.9",
+        "label": "Calificación Promedio"
+      },
+      "experiences": {
+        "number": "50+",
+        "label": "Experiencias Únicas"
+      }
+    },
+    "items": {
+      "testimonial1": {
+        "text": "¡Experiencia increíble! El tour del Cristo Redentor fue perfecto. Guía muy conocedor de la historia de Río.",
+        "author": "Maria Silva",
+        "location": "São Paulo, Brasil",
+        "service": "Cristo Redentor"
+      },
+      "testimonial2": {
+        "text": "¡Búzios fue una experiencia única! Yellow Transfer nos llevó a los mejores lugares con total comodidad.",
+        "author": "João Santos",
+        "location": "Brasília, Brasil",
+        "service": "Búzios"
+      },
+      "testimonial3": {
+        "text": "¡El vuelo en helicóptero fue espectacular! Una vista única de Río de Janeiro. ¡Lo recomiendo mucho!",
+        "author": "Ana Costa",
+        "location": "Belo Horizonte, Brasil",
+        "service": "Helicóptero"
+      }
+    },
+    "trust": {
+      "title": "Confianza y Calidad Garantizadas",
+      "items": {
+        "guides": "Guías Certificados",
+        "insurance": "Seguro Completo",
+        "support": "Soporte 24/7",
+        "premium": "Experiencia Premium"
+      }
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Resuelve tus dudas sobre nuestros servicios en Brasil",
+    "items": {
+      "question1": {
+        "question": "¿Cómo funciona la reserva vía WhatsApp?",
+        "answer": "¡Es muy simple! Contáctanos por WhatsApp, cuéntanos sobre tus intereses y fechas disponibles. Crearemos un itinerario personalizado y enviaremos toda la información detallada."
+      },
+      "question2": {
+        "question": "¿Personalizan los itinerarios?",
+        "answer": "¡Sí! Cada experiencia es única. Consideramos tus intereses, tiempo disponible y presupuesto para crear el itinerario perfecto en Brasil, sea en Río, Búzios, Angra u otros destinos."
+      },
+      "question3": {
+        "question": "¿Los paseos son seguros y puntuales?",
+        "answer": "¡Absolutamente! Trabajamos solo con guías certificados, vehículos seguros y seguimos rigurosamente los horarios. Tu seguridad y satisfacción son nuestras prioridades."
+      },
+      "question4": {
+        "question": "¿Atienden turistas extranjeros?",
+        "answer": "¡Sí! Nuestros guías hablan portugués, español e inglés. Tenemos experiencia con turistas de todo el mundo y adaptamos nuestros servicios para diferentes culturas y necesidades."
+      },
+      "question5": {
+        "question": "¿Cuál es el mejor período para visitar?",
+        "answer": "¡Brasil es hermoso todo el año! Río tiene clima agradable siempre, Búzios es perfecta en verano, y Angra dos Reis ofrece experiencias únicas en cualquier época. Te ayudamos a elegir la mejor fecha."
+      }
+    },
+    "cta": {
+      "title": "¿Aún tienes dudas?",
+      "description": "Nuestro equipo está listo para aclarar todas tus dudas y ayudarte a planificar la experiencia perfecta en Brasil.",
+      "button": "Habla con un especialista"
+    }
+  },
+  "footer": {
+    "company_name": "Yellow Transfer",
+    "description": "Yellow Transfer - Experiencias exclusivas en Brasil. Descubre lo mejor de Río de Janeiro, Búzios, Angra dos Reis y región con itinerarios personalizados y guías especializados.",
+    "quick_links": "Enlaces Rápidos",
+    "links": {
+      "home": "Inicio",
+      "services": "Servicios",
+      "about": "Acerca de",
+      "contact": "Contacto"
+    },
+    "services": "Nuestros Servicios",
+    "service_links": {
+      "city_tours": "Tours Río",
+      "buzios": "Paseos Búzios",
+      "angra": "Angra dos Reis",
+      "helicopter": "Helicóptero"
+    },
+    "contact": {
+      "whatsapp_principal": "WhatsApp Principal",
+      "whatsapp_brasil": "WhatsApp Brasil",
+      "email": "Email"
+    },
+    "copyright": "© 2025 Yellow Transfer. Todos los derechos reservados.",
+    "developer": "Hecho con ❤️ por Genesis Company"
+  },
+  "common": {
+    "whatsapp_button": "Hablar por WhatsApp",
+    "duration": "Duración",
+    "price": "Precio",
+    "highlights": "Destacados:",
+    "included": "Incluido:"
+  },
+  "whatsapp": {
+    "general_message": "¡Hola! Me gustaría saber más sobre las experiencias de Yellow Transfer en Brasil. ¿Pueden ayudarme?",
+    "service_message": "¡Hola! Tengo interés en el servicio: {service}. ¿Pueden enviarme más información?"
+  },
+  "cookies": {
+    "title": "Cookies y Privacidad",
+    "description": "Utilizamos cookies para mejorar tu experiencia en nuestro sitio, personalizar contenido y analizar nuestro tráfico. Al continuar navegando, aceptas nuestra política de cookies.",
+    "privacy": "Consulta nuestra política de privacidad para más información sobre cómo protegemos tus datos.",
+    "accept": "Aceptar",
+    "decline": "Rechazar"
+  }
+}
+
+
+
