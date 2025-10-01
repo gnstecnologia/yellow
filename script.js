@@ -11,11 +11,7 @@ const CONFIG = {
         email: 'suporte@yellowtransfer.com.br'
     },
     
-    // Mensagens padrão
-    messages: {
-        general: 'Olá! Gostaria de saber mais sobre as experiências da Yellow Transfer no Brasil. Podem me ajudar?',
-        service: 'Olá! Tenho interesse no serviço: {service}. Podem me enviar mais informações?'
-    },
+    // Mensagens serão obtidas dinamicamente baseadas no idioma atual
     
     // Configurações de animação
     animation: {
@@ -526,15 +522,50 @@ const WhatsApp = {
         
         const type = e.currentTarget.dataset.whatsapp;
         const service = e.currentTarget.dataset.service;
+        const phone = e.currentTarget.dataset.phone;
         
-        let message = CONFIG.messages.general;
+        // Obter mensagens baseadas no idioma atual
+        const currentLang = AppState.currentLanguage;
+        const translations = I18n.translations[currentLang];
         
+        let message;
         if (type === 'service' && service) {
-            message = CONFIG.messages.service.replace('{service}', service);
+            message = I18n.getNestedValue(translations, 'whatsapp.service_message').replace('{service}', service);
+        } else {
+            message = I18n.getNestedValue(translations, 'whatsapp.general_message');
         }
         
-        const whatsappLink = Utils.generateWhatsAppLink(message);
+        // Usar o número específico se fornecido, senão usar o padrão
+        const phoneNumber = phone || CONFIG.whatsapp.principal.replace('https://wa.me/', '');
+        const whatsappLink = Utils.generateWhatsAppLink(message, `https://wa.me/${phoneNumber}`);
         window.open(whatsappLink, '_blank');
+    },
+
+    // Função para gerar links diretos do WhatsApp
+    generateDirectLinks() {
+        const currentLang = AppState.currentLanguage;
+        const translations = I18n.translations[currentLang];
+        
+        // Atualizar todos os botões do WhatsApp
+        const whatsappButtons = document.querySelectorAll('[data-whatsapp]');
+        
+        whatsappButtons.forEach(button => {
+            const type = button.dataset.whatsapp;
+            const service = button.dataset.service;
+            const phone = button.dataset.phone;
+            
+            let message;
+            if (type === 'service' && service) {
+                message = I18n.getNestedValue(translations, 'whatsapp.service_message').replace('{service}', service);
+            } else {
+                message = I18n.getNestedValue(translations, 'whatsapp.general_message');
+            }
+            
+            // Usar o número específico se fornecido, senão usar o padrão
+            const phoneNumber = phone || CONFIG.whatsapp.principal.replace('https://wa.me/', '');
+            const whatsappLink = Utils.generateWhatsAppLink(message, `https://wa.me/${phoneNumber}`);
+            button.href = whatsappLink;
+        });
     }
 };
 
@@ -904,6 +935,9 @@ const I18n = {
             console.error('Traduções não encontradas para:', AppState.currentLanguage);
             return;
         }
+
+        // Gerar links diretos do WhatsApp com as mensagens traduzidas
+        WhatsApp.generateDirectLinks();
 
         // Atualizar elementos com data-i18n
         const elements = document.querySelectorAll('[data-i18n]');
